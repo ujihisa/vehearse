@@ -1,0 +1,11 @@
+If you write
+  1 + 2
+and return,
+  #=> 3
+will be written automatically.
+
+== AUTHOR
+Tatsuhiro UJIHISA
+
+== History
+2009-2-28 Read a pdf of rehearse and wrote sketch of vehearse for ruby.
